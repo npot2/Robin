@@ -1,2 +1,2 @@
-# Rubecula
-Rubecula, simple ARM based OS
+# Robin
+Robin, simple ARM based OS
